@@ -1,3 +1,3 @@
 ## datasciencecoursera
-Setting up GitHub
-Linking to Git
+*Setting up GitHub
+*Linking to Git
