@@ -1,2 +1,3 @@
-# datasciencecoursera
-Setting up GitHuv
+## datasciencecoursera
+Setting up GitHub
+Linking to Git
